@@ -18,7 +18,7 @@ It uses Retrieval-Augmented Generation (RAG) with DeepSeek-R1-1.5B for accurate,
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-1A73E8?style=for-the-badge&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-00A67E?style=for-the-badge&logoColor=white)
 
-###Vector Store & Embeddings
+### Vector Store & Embeddings
 ![FAISS](https://img.shields.io/badge/FAISS-005BBB?style=for-the-badge&logo=facebook&logoColor=white)
 ![MPNet](https://img.shields.io/badge/all_mpnet_base_v2-430098?style=for-the-badge&logo=google&logoColor=white)
 
