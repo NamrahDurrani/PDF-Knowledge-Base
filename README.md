@@ -1,3 +1,6 @@
+<video src="C:\Users\User\AppData\Local\CapCut\Videos\kb.mp4" width="700" controls></video>
+
+
 # PDF-Knowledge-Base
 
 🚀 RAG-powered intelligent assistant using DeepSeek-R1 & Sentence Transformers
