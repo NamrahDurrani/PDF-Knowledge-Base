@@ -1,5 +1,3 @@
-<video src="kb.mp4" width="700" controls></video>
-
 
 # PDF-Knowledge-Base
 
