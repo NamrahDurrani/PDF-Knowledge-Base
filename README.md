@@ -1,4 +1,4 @@
-<video src="C:\Users\User\AppData\Local\CapCut\Videos\kb.mp4" width="700" controls></video>
+<video src="kb.mp4" width="700" controls></video>
 
 
 # PDF-Knowledge-Base
